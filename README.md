@@ -1,4 +1,4 @@
-# flutter_application_1
+# Startup Name Generator
 
 A new Flutter project.
 
